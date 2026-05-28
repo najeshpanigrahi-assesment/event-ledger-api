@@ -1,0 +1,8 @@
+com\eventledger\EventLedgerIntegrationTest$PaginationTests.class
+com\eventledger\EventLedgerIntegrationTest$SubmitEventTests.class
+com\eventledger\EventLedgerIntegrationTest$OutOfOrderTests.class
+com\eventledger\EventLedgerIntegrationTest$BalanceComputationTests.class
+com\eventledger\EventLedgerIntegrationTest$GetEventByIdTests.class
+com\eventledger\EventLedgerIntegrationTest$IdempotencyTests.class
+com\eventledger\EventLedgerIntegrationTest$ValidationTests.class
+com\eventledger\EventLedgerIntegrationTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eventledger.EventLedgerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.14 s -- in com.eventledger.EventLedgerIntegrationTest
